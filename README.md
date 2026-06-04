@@ -1,6 +1,6 @@
 # Olá 👋
 
-Sou Rodrigo Emanuel, economista residente no Brasil. Atualmente, estou em transição para a área de Dados, aplicando pensamento analítico e estatístico a problemas de dados do mundo real!
+Sou Rodrigo Emanuel, economista residente no Brasil. Atualmente, estou em transição para a área de Dados, transformando análise econômica e dados em insights aplicáveis a problemas reais!
 
 ### 🔭 Estou trabalhando atualmente
 
@@ -16,6 +16,7 @@ Projeto de MBA sobre diabetes em gatos utilizando aprendizado de máquina.
 
 A vida é um constante aprendizado, mas no momento, estou aprendendo mais SQL.
 
-### 📫 How to reach me
+### 📫 Como me contatar
+
 - GitHub: https://github.com/linkiiil  
 - Email: rodrigoemanuelfreitaslosada@outlook.com
